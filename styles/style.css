@@ -202,7 +202,7 @@
 Почему*/
 
 .main__why {
-  margin-top: 39px;
+  margin-top: 40px;
 }
 
 @media(min-width: 768px) {
@@ -275,7 +275,7 @@ p {
 /*Что*/
 
 .main__what {
-  margin-top: 45px;
+  margin-top: 55px;
 }
 
 @media(min-width: 768px) {
@@ -303,7 +303,7 @@ p {
 /*Как*/
 
 .main__how {
-  margin-top: 48px;
+  margin-top: 50px;
 }
 
 @media(min-width: 768px) {
