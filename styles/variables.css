@@ -6,6 +6,7 @@
 :root {
   --header-title-color: #DB00FF;
   --accent-color: #FF0070;
+  --shadow-color: #FF0070;
   --background-color: #FF0070;
 
   --button-text-color: #FF0070;
@@ -19,4 +20,5 @@
   --background-img: url(../images/cover-image-dark.png);
   --background-clr: #000028;
   --REC: flex;
+  --font: 'IBM Plex mono', monospace;
 }
